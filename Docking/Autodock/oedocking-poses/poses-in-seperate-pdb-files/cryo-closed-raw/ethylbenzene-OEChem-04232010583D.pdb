@@ -1,0 +1,39 @@
+COMPND    ethylbenzene
+HETATM    1  C1  UNL     1     -34.766   4.897   4.652  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.352   6.102   5.218  1.00 20.00           C
+HETATM    3  C3  UNL     1     -34.370   4.562   3.357  1.00 20.00           C
+HETATM    4  C4  UNL     1     -33.541   6.972   4.490  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.560   5.432   2.628  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.145   6.638   3.195  1.00 20.00           C
+HETATM    7  C7  UNL     1     -33.090   8.568   1.596  1.00 20.00           C
+HETATM    8  C8  UNL     1     -32.279   7.568   2.415  1.00 20.00           C
+HETATM    9  H9  UNL     1     -35.396   4.218   5.220  1.00 20.00           H
+HETATM   10  H10 UNL     1     -34.659   6.362   6.227  1.00 20.00           H
+HETATM   11  H11 UNL     1     -34.692   3.623   2.916  1.00 20.00           H
+HETATM   12  H12 UNL     1     -33.223   7.910   4.939  1.00 20.00           H
+HETATM   13  H13 UNL     1     -33.256   5.163   1.620  1.00 20.00           H
+HETATM   14  H14 UNL     1     -33.774   8.053   0.913  1.00 20.00           H
+HETATM   15  H15 UNL     1     -32.431   9.205   0.998  1.00 20.00           H
+HETATM   16  H16 UNL     1     -33.689   9.215   2.246  1.00 20.00           H
+HETATM   17  H17 UNL     1     -31.603   8.120   3.089  1.00 20.00           H
+HETATM   18  H18 UNL     1     -31.617   7.002   1.740  1.00 20.00           H
+TER      19      UNL     1
+CONECT    1    2    3    3    9
+CONECT    2    1    4    4   10
+CONECT    3    1    1    5   11
+CONECT    4    2    2    6   12
+CONECT    5    3    6    6   13
+CONECT    6    4    5    5    8
+CONECT    7    8   14   15   16
+CONECT    8    6    7   17   18
+CONECT    9    1
+CONECT   10    2
+CONECT   11    3
+CONECT   12    4
+CONECT   13    5
+CONECT   14    7
+CONECT   15    7
+CONECT   16    7
+CONECT   17    8
+CONECT   18    8
+END

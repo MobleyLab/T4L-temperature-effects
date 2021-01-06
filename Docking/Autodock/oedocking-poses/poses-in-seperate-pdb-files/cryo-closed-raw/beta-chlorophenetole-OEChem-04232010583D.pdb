@@ -1,0 +1,41 @@
+COMPND    beta-chlorophenetole
+HETATM    1  C1  UNL     1     -35.019   5.517   6.030  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.186   6.628   5.903  1.00 20.00           C
+HETATM    3  C3  UNL     1     -35.249   4.689   4.931  1.00 20.00           C
+HETATM    4  C4  UNL     1     -33.582   6.911   4.677  1.00 20.00           C
+HETATM    5  C5  UNL     1     -34.646   4.972   3.706  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.812   6.083   3.579  1.00 20.00           C
+HETATM    7  C7  UNL     1     -32.961   7.731   2.091  1.00 20.00           C
+HETATM    8  C8  UNL     1     -33.093   7.971   0.598  1.00 20.00           C
+HETATM    9  O9  UNL     1     -33.225   6.360   2.383  1.00 20.00           O
+HETATM   10 CL10 UNL     1     -32.743   9.672   0.197  1.00 20.00          CL
+HETATM   11  H11 UNL     1     -35.489   5.297   6.984  1.00 20.00           H
+HETATM   12  H12 UNL     1     -34.006   7.274   6.758  1.00 20.00           H
+HETATM   13  H13 UNL     1     -35.898   3.824   5.030  1.00 20.00           H
+HETATM   14  H14 UNL     1     -32.935   7.779   4.585  1.00 20.00           H
+HETATM   15  H15 UNL     1     -34.830   4.324   2.853  1.00 20.00           H
+HETATM   16  H16 UNL     1     -31.961   7.990   2.455  1.00 20.00           H
+HETATM   17  H17 UNL     1     -33.696   8.337   2.629  1.00 20.00           H
+HETATM   18  H18 UNL     1     -32.388   7.355   0.033  1.00 20.00           H
+HETATM   19  H19 UNL     1     -34.111   7.759   0.260  1.00 20.00           H
+TER      20      UNL     1
+CONECT    1    2    2    3   11
+CONECT    2    1    1    4   12
+CONECT    3    1    5    5   13
+CONECT    4    2    6    6   14
+CONECT    5    3    3    6   15
+CONECT    6    4    4    5    9
+CONECT    7    8    9   16   17
+CONECT    8    7   10   18   19
+CONECT    9    6    7
+CONECT   10    8
+CONECT   11    1
+CONECT   12    2
+CONECT   13    3
+CONECT   14    4
+CONECT   15    5
+CONECT   16    7
+CONECT   17    7
+CONECT   18    8
+CONECT   19    8
+END

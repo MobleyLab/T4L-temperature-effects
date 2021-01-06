@@ -1,0 +1,16 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3 
+ROOT
+ATOM      1  N   GLY A   1     -32.623   7.500   3.537  1.00 20.00    -0.249 NA
+ATOM      2  CA  GLY A   1     -33.404   6.808   4.441  1.00 20.00     0.122 A 
+HETATM    3  C1  UNK A   1     -32.345   6.710   2.524  1.00 20.00     0.168 A 
+HETATM    4  C2  UNK A   1     -33.707   5.505   4.103  1.00 20.00     0.104 A 
+HETATM    5  S3  UNK A   1     -34.645   4.450   5.040  1.00 20.00    -0.070 SA
+HETATM    6  S4  UNK A   1     -32.991   5.122   2.593  1.00 20.00    -0.069 SA
+ENDROOT
+BRANCH   2   7
+ATOM      7  C   GLY A   1     -33.825   7.497   5.636  1.00 20.00     0.292 C 
+ATOM      8  O   GLY A   1     -34.527   6.977   6.517  1.00 20.00    -0.300 OA
+ENDBRANCH   2   7
+TORSDOF 1

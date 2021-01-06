@@ -1,0 +1,41 @@
+COMPND    C91352912
+HETATM    1  C1  UNL     1     -34.565   4.754   3.588  1.00 20.00           C
+HETATM    2  C2  UNL     1     -33.887   5.326   2.585  1.00 20.00           C
+HETATM    3  C3  UNL     1     -34.618   5.442   4.905  1.00 20.00           C
+HETATM    4  C4  UNL     1     -33.968   6.809   5.044  1.00 20.00           C
+HETATM    5  C5  UNL     1     -32.773   6.976   4.108  1.00 20.00           C
+HETATM    6  C6  UNL     1     -32.241   7.014   1.571  1.00 20.00           C
+HETATM    7  C7  UNL     1     -33.558   7.713   1.741  1.00 20.00           C
+HETATM    8  C8  UNL     1     -33.164   6.608   2.697  1.00 20.00           C
+HETATM    9  O9  UNL     1     -35.232   4.924   5.837  1.00 20.00           O
+HETATM   10  H10 UNL     1     -35.078   3.807   3.473  1.00 20.00           H
+HETATM   11  H11 UNL     1     -33.859   4.807   1.630  1.00 20.00           H
+HETATM   12  H12 UNL     1     -34.734   7.562   4.830  1.00 20.00           H
+HETATM   13  H13 UNL     1     -33.636   6.935   6.080  1.00 20.00           H
+HETATM   14  H14 UNL     1     -32.400   8.005   4.168  1.00 20.00           H
+HETATM   15  H15 UNL     1     -31.956   6.319   4.432  1.00 20.00           H
+HETATM   16  H16 UNL     1     -32.128   6.356   0.717  1.00 20.00           H
+HETATM   17  H17 UNL     1     -31.343   7.570   1.815  1.00 20.00           H
+HETATM   18  H18 UNL     1     -33.541   8.736   2.097  1.00 20.00           H
+HETATM   19  H19 UNL     1     -34.327   7.519   1.002  1.00 20.00           H
+TER      20      UNL     1
+CONECT    1    2    2    3   10
+CONECT    2    1    1    8   11
+CONECT    3    1    4    9    9
+CONECT    4    3    5   12   13
+CONECT    5    4    8   14   15
+CONECT    6    7    8   16   17
+CONECT    7    6    8   18   19
+CONECT    8    2    5    6    7
+CONECT    9    3    3
+CONECT   10    1
+CONECT   11    2
+CONECT   12    4
+CONECT   13    4
+CONECT   14    5
+CONECT   15    5
+CONECT   16    6
+CONECT   17    6
+CONECT   18    7
+CONECT   19    7
+END

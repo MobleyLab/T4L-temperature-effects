@@ -1,0 +1,19 @@
+MODEL 1
+REMARK VINA RESULT:      -4.0      0.000      0.000
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  C_3 
+ROOT
+ATOM      1  N   GLY A   1     -23.615  18.576   7.097  1.00 20.00
+ATOM      2  CA  GLY A   1     -22.941  18.055   8.184  1.00 20.00
+HETATM    3  C1  UNK A   1     -24.710  19.169   7.522  1.00 20.00
+HETATM    4  C2  UNK A   1     -23.531  18.257   9.414  1.00 20.00
+HETATM    5  S3  UNK A   1     -22.905  17.718  10.893  1.00 20.00
+HETATM    6  S4  UNK A   1     -24.988  19.137   9.214  1.00 20.00
+ENDROOT
+BRANCH   2   7
+ATOM      7  C   GLY A   1     -21.702  17.358   7.938  1.00 20.00
+ATOM      8  O   GLY A   1     -21.490  16.673   6.925  1.00 20.00
+ENDBRANCH   2   7
+TORSDOF 1
+ENDMDL

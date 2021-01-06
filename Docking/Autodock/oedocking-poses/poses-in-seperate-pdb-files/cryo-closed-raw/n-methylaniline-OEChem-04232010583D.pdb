@@ -1,0 +1,37 @@
+COMPND    n-methylaniline
+HETATM    1  C1  UNL     1     -35.055   5.376   5.385  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.406   6.511   5.870  1.00 20.00           C
+HETATM    3  C3  UNL     1     -34.781   4.913   4.098  1.00 20.00           C
+HETATM    4  C4  UNL     1     -33.483   7.183   5.069  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.858   5.585   3.296  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.209   6.720   3.782  1.00 20.00           C
+HETATM    7  C7  UNL     1     -32.364   7.429   1.544  1.00 20.00           C
+HETATM    8  N8  UNL     1     -32.276   7.399   2.971  1.00 20.00           N
+HETATM    9  H9  UNL     1     -35.773   4.852   6.009  1.00 20.00           H
+HETATM   10  H10 UNL     1     -34.619   6.871   6.872  1.00 20.00           H
+HETATM   11  H11 UNL     1     -35.286   4.029   3.720  1.00 20.00           H
+HETATM   12  H12 UNL     1     -32.983   8.067   5.457  1.00 20.00           H
+HETATM   13  H13 UNL     1     -33.653   5.215   2.295  1.00 20.00           H
+HETATM   14  H14 UNL     1     -33.237   6.863   1.209  1.00 20.00           H
+HETATM   15  H15 UNL     1     -31.467   6.987   1.101  1.00 20.00           H
+HETATM   16  H16 UNL     1     -32.457   8.460   1.192  1.00 20.00           H
+HETATM   17  H17 UNL     1     -31.527   7.873   3.440  1.00 20.00           H
+TER      18      UNL     1
+CONECT    1    2    2    3    9
+CONECT    2    1    1    4   10
+CONECT    3    1    5    5   11
+CONECT    4    2    6    6   12
+CONECT    5    3    3    6   13
+CONECT    6    4    4    5    8
+CONECT    7    8   14   15   16
+CONECT    8    6    7   17
+CONECT    9    1
+CONECT   10    2
+CONECT   11    3
+CONECT   12    4
+CONECT   13    5
+CONECT   14    7
+CONECT   15    7
+CONECT   16    7
+CONECT   17    8
+END

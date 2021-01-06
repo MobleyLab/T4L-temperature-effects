@@ -1,0 +1,35 @@
+COMPND    Anisole
+HETATM    1  C1  UNL     1     -34.341   4.592   5.627  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.075   5.960   5.568  1.00 20.00           C
+HETATM    3  C3  UNL     1     -34.164   3.798   4.494  1.00 20.00           C
+HETATM    4  C4  UNL     1     -33.630   6.534   4.377  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.719   4.371   3.303  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.452   5.739   3.244  1.00 20.00           C
+HETATM    7  C7  UNL     1     -32.767   7.702   2.090  1.00 20.00           C
+HETATM    8  O8  UNL     1     -33.020   6.298   2.081  1.00 20.00           O
+HETATM    9  H9  UNL     1     -34.687   4.146   6.555  1.00 20.00           H
+HETATM   10  H10 UNL     1     -34.213   6.579   6.450  1.00 20.00           H
+HETATM   11  H11 UNL     1     -34.371   2.733   4.541  1.00 20.00           H
+HETATM   12  H12 UNL     1     -33.425   7.600   4.337  1.00 20.00           H
+HETATM   13  H13 UNL     1     -33.584   3.747   2.423  1.00 20.00           H
+HETATM   14  H14 UNL     1     -32.428   8.019   1.101  1.00 20.00           H
+HETATM   15  H15 UNL     1     -32.005   7.932   2.839  1.00 20.00           H
+HETATM   16  H16 UNL     1     -33.692   8.228   2.342  1.00 20.00           H
+TER      17      UNL     1
+CONECT    1    2    3    3    9
+CONECT    2    1    4    4   10
+CONECT    3    1    1    5   11
+CONECT    4    2    2    6   12
+CONECT    5    3    6    6   13
+CONECT    6    4    5    5    8
+CONECT    7    8   14   15   16
+CONECT    8    6    7
+CONECT    9    1
+CONECT   10    2
+CONECT   11    3
+CONECT   12    4
+CONECT   13    5
+CONECT   14    7
+CONECT   15    7
+CONECT   16    7
+END

@@ -1,0 +1,33 @@
+COMPND    2,6-difluorobenzyl
+HETATM    1  C1  UNL     1     -34.765   5.526   5.412  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.624   4.847   4.201  1.00 20.00           C
+HETATM    3  C3  UNL     1     -33.996   6.661   5.669  1.00 20.00           C
+HETATM    4  C4  UNL     1     -32.944   6.437   3.505  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.713   5.302   3.248  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.085   7.116   4.715  1.00 20.00           C
+HETATM    7  C7  UNL     1     -31.970   6.924   2.486  1.00 20.00           C
+HETATM    8  F8  UNL     1     -33.584   4.643   2.089  1.00 20.00           F
+HETATM    9  F9  UNL     1     -32.350   8.207   4.971  1.00 20.00           F
+HETATM   10 BR10 UNL     1     -32.930   7.766   1.019  1.00 20.00          BR
+HETATM   11  H11 UNL     1     -35.474   5.171   6.154  1.00 20.00           H
+HETATM   12  H12 UNL     1     -35.223   3.963   4.001  1.00 20.00           H
+HETATM   13  H13 UNL     1     -34.105   7.189   6.611  1.00 20.00           H
+HETATM   14  H14 UNL     1     -31.375   6.110   2.057  1.00 20.00           H
+HETATM   15  H15 UNL     1     -31.282   7.674   2.894  1.00 20.00           H
+TER      16      UNL     1
+CONECT    1    2    2    3   11
+CONECT    2    1    1    5   12
+CONECT    3    1    6    6   13
+CONECT    4    5    5    6    7
+CONECT    5    2    4    4    8
+CONECT    6    3    3    4    9
+CONECT    7    4   10   14   15
+CONECT    8    5
+CONECT    9    6
+CONECT   10    7
+CONECT   11    1
+CONECT   12    2
+CONECT   13    3
+CONECT   14    7
+CONECT   15    7
+END

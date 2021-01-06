@@ -1,0 +1,29 @@
+MODEL 1
+REMARK VINA RESULT:      -4.7      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C5_5  and  C9_9 
+REMARK    2  A    between atoms: C9_9  and  C11_11 
+REMARK    3  A    between atoms: C10_10  and  C11_11 
+ROOT
+HETATM    1  C1  UNL     1     -33.719  14.406  -4.170  1.00 20.00
+HETATM    2  C2  UNL     1     -33.103  15.739  -3.771  1.00 20.00
+HETATM    3  C3  UNL     1     -35.240  14.472  -4.329  1.00 20.00
+HETATM    4  C4  UNL     1     -35.159  15.915  -2.237  1.00 20.00
+HETATM    5  C5  UNL     1     -33.663  16.237  -2.431  1.00 20.00
+HETATM    6  C6  UNL     1     -35.919  15.586  -3.523  1.00 20.00
+HETATM    7 CL12 UNL     1     -36.124  17.057  -4.527  1.00 20.00
+ENDROOT
+BRANCH   5   8
+HETATM    8  C9  UNL     1     -33.364  17.725  -2.241  1.00 20.00
+BRANCH   8   9
+HETATM    9  C11 UNL     1     -32.992  18.102  -0.794  1.00 20.00
+HETATM   10  C8  UNL     1     -33.847  19.263  -0.275  1.00 20.00
+BRANCH   9  11
+HETATM   11  C10 UNL     1     -31.487  18.437  -0.743  1.00 20.00
+HETATM   12  C7  UNL     1     -30.854  18.220   0.624  1.00 20.00
+ENDBRANCH   9  11
+ENDBRANCH   8   9
+ENDBRANCH   5   8
+TORSDOF 3
+ENDMDL

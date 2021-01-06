@@ -1,0 +1,33 @@
+COMPND    2-Iodotolutene
+HETATM    1  C1  UNL     1     -34.565   6.545   6.522  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.883   5.262   6.077  1.00 20.00           C
+HETATM    3  C3  UNL     1     -33.819   7.400   5.711  1.00 20.00           C
+HETATM    4  C4  UNL     1     -34.455   4.834   4.820  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.391   6.972   4.455  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.709   5.689   4.009  1.00 20.00           C
+HETATM    7  C7  UNL     1     -32.595   7.932   3.629  1.00 20.00           C
+HETATM    8  I8  UNL     1     -33.099   4.984   2.136  1.00 20.00           I
+HETATM    9  H9  UNL     1     -34.898   6.878   7.501  1.00 20.00           H
+HETATM   10  H10 UNL     1     -35.464   4.597   6.709  1.00 20.00           H
+HETATM   11  H11 UNL     1     -33.577   8.398   6.069  1.00 20.00           H
+HETATM   12  H12 UNL     1     -34.716   3.830   4.496  1.00 20.00           H
+HETATM   13  H13 UNL     1     -31.526   7.814   3.839  1.00 20.00           H
+HETATM   14  H14 UNL     1     -32.763   7.766   2.559  1.00 20.00           H
+HETATM   15  H15 UNL     1     -32.882   8.968   3.842  1.00 20.00           H
+TER      16      UNL     1
+CONECT    1    2    3    3    9
+CONECT    2    1    4    4   10
+CONECT    3    1    1    5   11
+CONECT    4    2    2    6   12
+CONECT    5    3    6    6    7
+CONECT    6    4    5    5    8
+CONECT    7    5   13   14   15
+CONECT    8    6
+CONECT    9    1
+CONECT   10    2
+CONECT   11    3
+CONECT   12    4
+CONECT   13    7
+CONECT   14    7
+CONECT   15    7
+END

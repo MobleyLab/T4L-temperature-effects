@@ -1,0 +1,27 @@
+COMPND    benzene
+HETATM    1  C1  UNL     1     -34.232   5.663   6.933  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.905   5.071   5.864  1.00 20.00           C
+HETATM    3  C3  UNL     1     -33.531   6.854   6.743  1.00 20.00           C
+HETATM    4  C4  UNL     1     -34.877   5.670   4.605  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.503   7.453   5.483  1.00 20.00           C
+HETATM    6  C6  UNL     1     -34.176   6.861   4.415  1.00 20.00           C
+HETATM    7  H7  UNL     1     -34.255   5.197   7.914  1.00 20.00           H
+HETATM    8  H8  UNL     1     -35.450   4.144   6.013  1.00 20.00           H
+HETATM    9  H9  UNL     1     -33.006   7.315   7.575  1.00 20.00           H
+HETATM   10  H10 UNL     1     -35.401   5.209   3.773  1.00 20.00           H
+HETATM   11  H11 UNL     1     -32.957   8.380   5.335  1.00 20.00           H
+HETATM   12  H12 UNL     1     -34.154   7.328   3.434  1.00 20.00           H
+TER      13      UNL     1
+CONECT    1    2    2    3    7
+CONECT    2    1    1    4    8
+CONECT    3    1    5    5    9
+CONECT    4    2    6    6   10
+CONECT    5    3    3    6   11
+CONECT    6    4    4    5   12
+CONECT    7    1
+CONECT    8    2
+CONECT    9    3
+CONECT   10    4
+CONECT   11    5
+CONECT   12    6
+END

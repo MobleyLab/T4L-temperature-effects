@@ -1,0 +1,39 @@
+COMPND    C95079169
+HETATM    1  C1  UNK A   1     -33.956   5.938   5.498  1.00 20.00           C
+HETATM    2  C2  UNK A   1     -34.646   5.075   6.502  1.00 20.00           C
+HETATM    3  H21 UNK A   1     -35.726   5.152   6.376  1.00 20.00           H
+HETATM    4  H22 UNK A   1     -34.379   5.392   7.510  1.00 20.00           H
+HETATM    5  H23 UNK A   1     -34.342   4.036   6.368  1.00 20.00           H
+ATOM      6  N   VAL A   1     -33.606   5.514   4.321  1.00 20.00           N
+ATOM      7  CA  VAL A   1     -33.015   6.600   3.734  1.00 20.00           C
+ATOM      8  C   VAL A   1     -32.487   6.504   2.378  1.00 20.00           C
+ATOM      9  O   VAL A   1     -31.950   7.448   1.804  1.00 20.00           O
+ATOM     10  CB  VAL A   1     -32.983   7.695   4.504  1.00 20.00           C
+ATOM     11  CG1 VAL A   1     -32.442   9.054   4.246  1.00 20.00           C
+ATOM     12  CG2 VAL A   1     -33.627   7.374   5.815  1.00 20.00           C
+ATOM     13 HG11 VAL A   1     -33.214   9.690   3.806  1.00 20.00           H
+ATOM     14 HG12 VAL A   1     -31.595   8.999   3.558  1.00 20.00           H
+ATOM     15 HG13 VAL A   1     -32.101   9.508   5.180  1.00 20.00           H
+ATOM     16 HG22 VAL A   1     -32.933   7.436   6.657  1.00 20.00           H
+ATOM     17 HG23 VAL A   1     -34.537   7.950   5.995  1.00 20.00           H
+ATOM     18  H'  VAL A   1     -32.603   5.517   1.892  1.00 20.00           H
+TER      19      VAL A   1
+CONECT    1    2    6    6   12
+CONECT    2    1    3    4    5
+CONECT    3    2
+CONECT    4    2
+CONECT    5    2
+CONECT    6    1    1    7
+CONECT    7    6    8   10   10
+CONECT    8    7    9    9   18
+CONECT    9    8    8
+CONECT   10    7    7   11   12
+CONECT   11   10   13   14   15
+CONECT   12    1   10   16   17
+CONECT   13   11
+CONECT   14   11
+CONECT   15   11
+CONECT   16   12
+CONECT   17   12
+CONECT   18    8
+END

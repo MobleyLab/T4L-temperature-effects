@@ -1,0 +1,33 @@
+COMPND    toluene
+HETATM    1  C1  UNL     1     -34.763   5.468   6.573  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.707   4.878   5.310  1.00 20.00           C
+HETATM    3  C3  UNL     1     -34.131   6.691   6.799  1.00 20.00           C
+HETATM    4  C4  UNL     1     -34.020   5.510   4.274  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.443   7.323   5.763  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.388   6.733   4.501  1.00 20.00           C
+HETATM    7  C7  UNL     1     -32.652   7.409   3.394  1.00 20.00           C
+HETATM    8  H8  UNL     1     -35.300   4.977   7.379  1.00 20.00           H
+HETATM    9  H9  UNL     1     -35.200   3.926   5.134  1.00 20.00           H
+HETATM   10  H10 UNL     1     -34.175   7.152   7.781  1.00 20.00           H
+HETATM   11  H11 UNL     1     -33.981   5.042   3.294  1.00 20.00           H
+HETATM   12  H12 UNL     1     -32.954   8.276   5.949  1.00 20.00           H
+HETATM   13  H13 UNL     1     -33.324   8.076   2.841  1.00 20.00           H
+HETATM   14  H14 UNL     1     -31.811   8.001   3.777  1.00 20.00           H
+HETATM   15  H15 UNL     1     -32.231   6.678   2.690  1.00 20.00           H
+TER      16      UNL     1
+CONECT    1    2    3    3    8
+CONECT    2    1    4    4    9
+CONECT    3    1    1    5   10
+CONECT    4    2    2    6   11
+CONECT    5    3    6    6   12
+CONECT    6    4    5    5    7
+CONECT    7    6   13   14   15
+CONECT    8    1
+CONECT    9    2
+CONECT   10    3
+CONECT   11    4
+CONECT   12    5
+CONECT   13    7
+CONECT   14    7
+CONECT   15    7
+END

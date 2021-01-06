@@ -1,0 +1,41 @@
+COMPND    C18855098
+HETATM    1  C1  UNL     1     -33.170   6.076   1.926  1.00 20.00           C
+HETATM    2  C2  UNL     1     -32.555   7.111   1.230  1.00 20.00           C
+HETATM    3  C3  UNL     1     -33.799   7.644   3.599  1.00 20.00           C
+HETATM    4  C4  UNL     1     -33.807   6.339   3.133  1.00 20.00           C
+HETATM    5  C5  UNL     1     -32.604   8.382   1.781  1.00 20.00           C
+HETATM    6  C6  UNL     1     -32.765  10.726   0.708  1.00 20.00           C
+HETATM    7  C7  UNL     1     -32.342   9.782  -0.375  1.00 20.00           C
+HETATM    8  C8  UNL     1     -31.950   9.508   1.053  1.00 20.00           C
+HETATM    9  N9  UNL     1     -33.212   8.676   2.952  1.00 20.00           N
+HETATM   10  O10 UNL     1     -34.416   5.350   3.832  1.00 20.00           O
+HETATM   11  H11 UNL     1     -33.150   5.068   1.521  1.00 20.00           H
+HETATM   12  H12 UNL     1     -32.056   6.917   0.287  1.00 20.00           H
+HETATM   13  H13 UNL     1     -34.282   7.908   4.536  1.00 20.00           H
+HETATM   14  H14 UNL     1     -32.269  11.688   0.760  1.00 20.00           H
+HETATM   15  H15 UNL     1     -33.815  10.752   0.970  1.00 20.00           H
+HETATM   16  H16 UNL     1     -33.109   9.173  -0.838  1.00 20.00           H
+HETATM   17  H17 UNL     1     -31.562  10.108  -1.053  1.00 20.00           H
+HETATM   18  H18 UNL     1     -30.912   9.678   1.309  1.00 20.00           H
+HETATM   19  H19 UNL     1     -34.329   4.500   3.367  1.00 20.00           H
+TER      20      UNL     1
+CONECT    1    2    4    4   11
+CONECT    2    1    5    5   12
+CONECT    3    4    9    9   13
+CONECT    4    1    1    3   10
+CONECT    5    2    2    8    9
+CONECT    6    7    8   14   15
+CONECT    7    6    8   16   17
+CONECT    8    5    6    7   18
+CONECT    9    3    3    5
+CONECT   10    4   19
+CONECT   11    1
+CONECT   12    2
+CONECT   13    3
+CONECT   14    6
+CONECT   15    6
+CONECT   16    7
+CONECT   17    7
+CONECT   18    8
+CONECT   19   10
+END

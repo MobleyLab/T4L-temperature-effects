@@ -1,0 +1,33 @@
+COMPND    2-ethylfuran
+HETATM    1  C1  UNL     1     -34.775   4.949   6.311  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.110   4.345   5.217  1.00 20.00           C
+HETATM    3  C3  UNL     1     -35.067   6.234   5.918  1.00 20.00           C
+HETATM    4  C4  UNL     1     -34.044   5.304   4.234  1.00 20.00           C
+HETATM    5  C5  UNL     1     -32.422   6.399   2.666  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.486   5.312   2.874  1.00 20.00           C
+HETATM    7  O7  UNL     1     -34.625   6.459   4.653  1.00 20.00           O
+HETATM    8  H8  UNL     1     -35.011   4.503   7.267  1.00 20.00           H
+HETATM    9  H9  UNL     1     -33.729   3.336   5.157  1.00 20.00           H
+HETATM   10  H10 UNL     1     -35.558   7.069   6.397  1.00 20.00           H
+HETATM   11  H11 UNL     1     -32.826   7.387   2.911  1.00 20.00           H
+HETATM   12  H12 UNL     1     -32.071   6.423   1.630  1.00 20.00           H
+HETATM   13  H13 UNL     1     -31.556   6.220   3.313  1.00 20.00           H
+HETATM   14  H14 UNL     1     -33.033   4.333   2.615  1.00 20.00           H
+HETATM   15  H15 UNL     1     -34.279   5.457   2.111  1.00 20.00           H
+TER      16      UNL     1
+CONECT    1    2    3    3    8
+CONECT    2    1    4    4    9
+CONECT    3    1    1    7   10
+CONECT    4    2    2    6    7
+CONECT    5    6   11   12   13
+CONECT    6    4    5   14   15
+CONECT    7    3    4
+CONECT    8    1
+CONECT    9    2
+CONECT   10    3
+CONECT   11    5
+CONECT   12    5
+CONECT   13    5
+CONECT   14    6
+CONECT   15    6
+END

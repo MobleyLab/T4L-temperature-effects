@@ -1,0 +1,35 @@
+COMPND    Thioanisole
+HETATM    1  C1  UNL     1     -34.812   4.475   5.055  1.00 20.00           C
+HETATM    2  C2  UNL     1     -34.273   4.225   3.793  1.00 20.00           C
+HETATM    3  C3  UNL     1     -34.543   5.681   5.701  1.00 20.00           C
+HETATM    4  C4  UNL     1     -33.466   5.181   3.177  1.00 20.00           C
+HETATM    5  C5  UNL     1     -33.736   6.638   5.086  1.00 20.00           C
+HETATM    6  C6  UNL     1     -33.198   6.388   3.823  1.00 20.00           C
+HETATM    7  C7  UNL     1     -32.538   7.250   1.306  1.00 20.00           C
+HETATM    8  S8  UNL     1     -32.166   7.610   3.037  1.00 20.00           S
+HETATM    9  H9  UNL     1     -35.440   3.729   5.534  1.00 20.00           H
+HETATM   10  H10 UNL     1     -34.482   3.285   3.289  1.00 20.00           H
+HETATM   11  H11 UNL     1     -34.963   5.875   6.684  1.00 20.00           H
+HETATM   12  H12 UNL     1     -33.056   4.968   2.193  1.00 20.00           H
+HETATM   13  H13 UNL     1     -33.538   7.572   5.605  1.00 20.00           H
+HETATM   14  H14 UNL     1     -31.975   7.925   0.657  1.00 20.00           H
+HETATM   15  H15 UNL     1     -33.606   7.385   1.121  1.00 20.00           H
+HETATM   16  H16 UNL     1     -32.262   6.218   1.074  1.00 20.00           H
+TER      17      UNL     1
+CONECT    1    2    3    3    9
+CONECT    2    1    4    4   10
+CONECT    3    1    1    5   11
+CONECT    4    2    2    6   12
+CONECT    5    3    6    6   13
+CONECT    6    4    5    5    8
+CONECT    7    8   14   15   16
+CONECT    8    6    7
+CONECT    9    1
+CONECT   10    2
+CONECT   11    3
+CONECT   12    4
+CONECT   13    5
+CONECT   14    7
+CONECT   15    7
+CONECT   16    7
+END

@@ -1,0 +1,20 @@
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C6_6  and  C11_11 
+ROOT
+HETATM    1  C1  UNL     1     -34.009   6.137   5.340  1.00 20.00     0.136 C 
+HETATM    2  C2  UNL     1     -32.974   7.246   5.086  1.00 20.00     0.085 C 
+HETATM    3  C3  UNL     1     -34.641   6.636   1.885  1.00 20.00     0.006 C 
+HETATM    4  C4  UNL     1     -35.107   5.722   3.013  1.00 20.00     0.018 C 
+HETATM    5  C5  UNL     1     -32.966   6.818   3.594  1.00 20.00     0.012 C 
+HETATM    6  C6  UNL     1     -33.779   7.668   2.608  1.00 20.00    -0.006 C 
+HETATM    7  C7  UNL     1     -33.868   5.577   3.903  1.00 20.00     0.021 C 
+HETATM    8  C8  UNL     1     -33.195   4.219   3.810  1.00 20.00     0.024 C 
+HETATM    9  O12 UNL     1     -34.679   5.826   6.302  1.00 20.00    -0.297 OA
+ENDROOT
+BRANCH   6  10
+HETATM   10  C11 UNL     1     -32.879   8.452   1.670  1.00 20.00    -0.018 C 
+HETATM   11  C9  UNL     1     -31.905   7.519   0.955  1.00 20.00     0.010 C 
+HETATM   12  C10 UNL     1     -33.713   9.236   0.658  1.00 20.00     0.010 C 
+ENDBRANCH   6  10
+TORSDOF 1
