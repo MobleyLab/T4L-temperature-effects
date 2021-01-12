@@ -13,4 +13,16 @@ In the following subdirectories, we provide the input files as well as the yaml 
 - [`4-iodotoluene`](4iodotoluene)
 - [`benzylacetate`](benzylacetate)
 
-PS. We used minimize=yes (yaml files) for the first 500 iterations of each calculation.
+For iodobenzene, o-xylene, and toluene, we also used the L99A RT co-crystal structures to set up additional binding free energy calculations. The respective input files and yaml files can be found in:
+
+- [`iodobenzene-rt`](iodobenzene-rt)
+- [`o-xylene-rt`](o-xylene-rt)
+- [`toluene-rt`](toluene-rt)
+
+Also, we added iodobenzene, toluene, and o-xylene to the apo RT structure of L99A to form 3 complexes on which we performed binding free energy calculations. The respective input files and yaml files can befound in:
+
+- [`iodobenzene-apo-rt`](iodobenzene-apo-rt)
+- [`o-xylene-apo-rt`](o-xylene-apo-rt)
+- [`toluene-apo-rt`](toluene-apo-rt)
+
+PS. We used minimize=yes (yaml files) on the starting structure of each calculation.
